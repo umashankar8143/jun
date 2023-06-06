@@ -1,0 +1,25 @@
+Operating systems are an essential part of any computer system. Similarly, 
+a course on operating systems is an essential part of any computer science education. 
+This field is undergoing rapid change, 
+as computers are now prevalent in virtually every arena of day-to-day life 
+from embedded devices in automobiles through the most sophisticated planning tools 
+for governments and multinational firms. Yet the fundamental concepts remain fairly clear, and it is on these that we base this book.
+
+ABRAHAM SILBERSCHATZ
+Yale University
+PETER BAER GALVIN
+Pluribus Networks
+GREG GAGNE
+Westminster College. Shakor, Mohammed. (2021). Operating System Concepts (9th,2012.12). 
+Operating systems are an essential part of any computer system. 
+Similarly, a course on operating systems is an essential part of any computer science education. 
+This field is undergoing rapid change, 
+as computers are now prevalent in virtually every arena of day-to-day life from embedded devices in automobiles through the most sophisticated planning tools 
+for governments and multinational firms. Yet the fundamental concepts remain fairly clear, and it is on these that we base this book.
+
+ABRAHAM SILBERSCHATZ
+Yale University
+PETER BAER GALVIN
+Pluribus Networks
+GREG GAGNE
+Westminster College
